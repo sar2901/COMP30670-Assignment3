@@ -1,0 +1,14 @@
+## Strategy ## 
+
+For this assignment, I plan on creating methods "turn on", "turn off", and "switch" that will be called based on the instruction parameters in the given input file. The program will be designed to test a new display board of LED lights, read from a list of instructions to either turn on, off, or switch the lights, and then determine how many lights are on after the instructions have been applied.
+
+The program should be able to:
+*	Read the console for given input and file
+*	Open the file given as an input
+*	Build a LED grid
+*	Perform operations based on position in the grid using coordinates
+*	Change the lights according to instruction parameters
+*	Turn on lights, turn off lights, and switch lights based on the given instructions
+*	Count the number of lights on after instructions applied
+*	Print the total number of lights on
+
