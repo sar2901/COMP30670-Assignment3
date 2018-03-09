@@ -25,7 +25,7 @@ pip install -e .
 
 ### TEST ###
 Test can be executed by running the test.py file.
-py.test sr
+py.test tests/test.py
 
 Code will test for various things: 
 * Existence of the input file
