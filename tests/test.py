@@ -39,7 +39,6 @@ class LEDCounterTest(unittest.TestCase):
         self.assertFalse(switch(True))
         self.assertTrue(switch(False))
 
-
     def mainTest(self):
         lightGridStatus(self.test_file)
 
