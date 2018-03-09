@@ -1,0 +1,3 @@
+[console_scripts]
+LEDCounter = LEDCounter.main:main
+

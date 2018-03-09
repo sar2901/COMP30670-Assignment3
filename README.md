@@ -5,7 +5,7 @@
 -----------------------------------
 
 ## GitHub Repository ##
-#### https://github.com/sar2901/COMP30670_Assignment3
+#### https://github.com/sar2901/COMP30670-Assignment3
 
 
 ## Purpose ##

@@ -1,1 +1,2 @@
-pytest==2.6.4
+setuptools==36.5.0.post20170921
+requests==2.18.4
