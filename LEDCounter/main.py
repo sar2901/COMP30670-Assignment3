@@ -100,6 +100,7 @@ def main():
 
 def lightGridStatus(url):
     # Function to read parsed arguments
+    
     buffer = readInput(url)
     grid = lightGrid(size=int(next(buffer)))
 
