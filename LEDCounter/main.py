@@ -11,6 +11,7 @@ import requests
 
 def readInput(file):
     #Function that opens input file
+    
     if file.startswith('http'):
         req = requests.get(file)
         return req.iter_lines(decode_unicode=True)
